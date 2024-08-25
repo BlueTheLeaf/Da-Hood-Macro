@@ -1,4 +1,4 @@
-print(">> Scroll Wheel Da Hood Macro\n>> Warning: This may cause lag\n>> Press Q to toggle\nMade by maZ")
+print(">> Scroll Wheel Da Hood Macro\n>> Warning: This may cause lag\n>> Press Q to toggle\n>> Made by maZ")
 
 from pynput import mouse, keyboard
 import time
